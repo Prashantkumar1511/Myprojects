@@ -1,0 +1,22 @@
+#container-0{
+    border: 2px  solid black;
+    text-align: center;
+    font-size: xx-large;
+    color: darkmagenta;
+}
+#button-1{
+    color: deeppink;
+    background-color: gold;
+}
+#container-1{
+    border: groove;
+    background-color: royalblue;
+}
+#button-2{
+    color: blue;
+    
+    background-color: red;
+}
+#result{
+    border: 2px solid blue;
+}

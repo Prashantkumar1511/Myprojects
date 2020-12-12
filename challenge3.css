@@ -1,0 +1,33 @@
+#container-0{
+    border: 2px solid black;
+    color: red;
+    background-color: cadetblue;
+    font-size: x-large;
+    width: 75%;
+   
+   margin: 0 auto;
+   
+   
+}
+#container-1{
+    border : 1px solid black;
+    padding-left: 40%;
+    background-color: burlywood;
+}
+#container-2{
+    border: 1px solid black;
+   
+    background-color: white;
+    padding: 5px;
+    
+}
+#button-1{
+    background-color: salmon;
+}
+#container-2 img{
+    border: 1px solid black;
+    justify-content: space-around;
+    margin: 10px;
+   
+    
+}

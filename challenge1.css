@@ -1,0 +1,22 @@
+#container-1{
+    border: 2px solid red;
+    text-align: center;
+}
+#container-0{
+    border: 2px solid black;
+    width: 75%;
+    margin-left: 10%;
+}
+#button{
+    border: 3px solid black;
+}
+#button-1{
+    background-color: skyblue;
+    margin-left: 20%;
+    
+
+}
+#button-2{
+    background-color: red;
+    margin-left: 20%;
+}
